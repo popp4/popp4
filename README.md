@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/7h7F.gif))
 <!--
 **popp4/popp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
