@@ -2,9 +2,11 @@
 ## Hi there 👋
 -->
 
-<!-- ![](https://i.gifer.com/5TMy.gif) -->
+<!-- ![](https://i.gifer.com/5TMy.gif) LUDZIK --> 
 
-![](https://i.gifer.com/4Cb2.gif)
+![](https://i.gifer.com/XOsX.gif)
+
+<!-- ![](https://i.gifer.com/4Cb2.gif) SLONCE -->
 
 
 <!--
